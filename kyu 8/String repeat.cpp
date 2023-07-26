@@ -12,4 +12,5 @@ string repeat_str(size_t repeat, const string& str) {
 
 int main(){
     cout << repeat_str(100,"dala3 ");
+    return 0;
 }
